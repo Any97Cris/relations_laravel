@@ -11,10 +11,12 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
 
-##Sobre Laravel
+
+## Sobre Laravel
 
 Laravel é um framework de aplicações web com sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiência agradável e criativa para ser verdadeiramente gratificante. O Laravel simplifica o desenvolvimento facilitando tarefas comuns usadas em muitos projetos da web.
 
-##Sobre o projeto desenvolvido:
+
+## Sobre o projeto desenvolvido:
 
 Construção de API para aprender o desenvolvimento dos relacionamentos entre tabelas no laravel. Criação do banco e das tabelas, relacionamentos como um para um, um para muitos ou muitos para um e muitos para muitos.
